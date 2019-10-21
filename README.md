@@ -1,7 +1,27 @@
 # NASA Newsfeed Publisher
 
-Unofficially named the NASA Bulletin
+<i> Unofficially named the NASA Bulletin </i>
 
-Python code utilising RSS feeds from NASA to summaries the categories of "Breaking News", "Image of the Day", "Educational News", "Earth News", "Shuttle News" and "Solar System News". Code allows the use of a UI that the user is able to interact with to select which specific news topics they wish to view. From the selected few, the UI contains a button that allows the generation of a webpage with the most up-to-date stories from each of the topics.
+Python script utilising RSS feeds from NASA generating up-to-date information on the following topics: Breaking News, Educational News, Shuttle News, Solar System News, Image of the Day. Users are capable of customising their experience by selecting which specific topics they would like to view, in addition to creating a record of the stories viewed.
 
-This program requires Python 2 to run.
+
+# Usage
+* clone repo, or download source code
+
+* run NASA_newsfeed_publisher.py (python2)
+
+* using checkboxes, selected desired topics
+
+* press 'Print' to generate html page
+
+* press 'Read' to open webpage in browser
+
+* press 'Record' to store information about viewed stories
+
+# Screenshots
+
+<img src = "Screenshot%20-%20UI.png" width="300">
+Screenshot of GUI
+
+<img src = "Screenshot%20-%20NASA%20Bulletin%20Webpage.png" width="800">
+Screenshot of generated webpage
