@@ -10,7 +10,7 @@ Python script utilising RSS feeds from NASA generating up-to-date information on
 
 * run [skyrim_puzzle.py](https://github.com/madurasenadeera/NASA-newsfeed-publisher/blob/master/NASA_newsfeed_publisher.py)
 
-* using checkboxes, selected desired topics.
+* using checkboxes, select desired topics.
 
 * press <i> 'Print'</i>  to generate html page.
 
