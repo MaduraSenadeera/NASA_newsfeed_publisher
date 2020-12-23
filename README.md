@@ -8,7 +8,7 @@ Python script utilising RSS feeds from NASA generating up-to-date information on
 # Usage
 * clone repo or download source code.
 
-* run [skyrim_puzzle.py](https://github.com/madurasenadeera/NASA-newsfeed-publisher/blob/master/NASA_newsfeed_publisher.py)
+* run [NASA_newsfeed_publisher.py](https://github.com/madurasenadeera/NASA-newsfeed-publisher/blob/master/NASA_newsfeed_publisher.py)
 
 * using checkboxes, select desired topics.
 
